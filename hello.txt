@@ -11,3 +11,4 @@ hello scspan
 333333333333 master demo
 hot-fix分支 hot-fix demo
 远程仓库拉取
+ssh拉取
